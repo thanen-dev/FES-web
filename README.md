@@ -26,7 +26,7 @@ This website showcases the Finance and Economics Society, including:
 
 The website is live at:
 
-**[https://your-vercel-link-here](https://your-vercel-link-here)**
+**[https://fes-web.vercel.app](https://fes-web.vercel.app)**
 
 ## Contributing
 
