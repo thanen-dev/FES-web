@@ -17,9 +17,9 @@ export default function TeamPage() {
       name: "Kokchhe Ou",
       role: "Co-Founder",
       bio: "Enthusiastic about economic policy and financial markets, committed to creating impactful learning experiences.",
-      image: "/professional-headshot-female.png",
+      image: "/chhe.jpg",
       email: "kokchheou@fes.com",
-      linkedin: "#",
+      linkedin: "https://www.linkedin.com/in/kokchhe-ou-078295350/",
       github: "#",
     },
   ]
