@@ -1,30 +1,34 @@
-# PES website about
+# Finance and Economics Society (FES) Website
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+Welcome to the official repository for the Finance and Economics Society (FES) website.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/thanenpeou-7675s-projects/v0-fes)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/VeSmgMajrGL)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://your-vercel-link-here)
 
 ## Overview
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+This website showcases the Finance and Economics Society, including:
+
+- Our team
+- Upcoming events
+- Resources and study materials
+- How to join us
+- Sponsors and partnerships
+
+## Project Structure
+
+- `app/` → main pages and routes  
+- `components/` → reusable UI components  
+- `styles/` → CSS / Tailwind styling  
+- `public/` → static assets (images, icons, etc.)  
+- `lib/` → helper functions or utilities
 
 ## Deployment
 
-Your project is live at:
+The website is live at:
 
-**[https://vercel.com/thanenpeou-7675s-projects/v0-fes](https://vercel.com/thanenpeou-7675s-projects/v0-fes)**
+**[https://your-vercel-link-here](https://your-vercel-link-here)**
 
-## Build your app
+## Contributing
 
-Continue building your app on:
+Make changes locally, commit, and push to GitHub. The live site will automatically update via Vercel.
 
-**[https://v0.app/chat/projects/VeSmgMajrGL](https://v0.app/chat/projects/VeSmgMajrGL)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
