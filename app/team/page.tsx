@@ -5,20 +5,20 @@ import { Footer } from "@/components/footer"
 export default function TeamPage() {
   const teamMembers = [
     {
-      name: "Your Name",
-      role: "Co-Founder & President",
+      name: "Thanen Peou",
+      role: "Co-Founder",
       bio: "Passionate about finance and economics, dedicated to building a community of learners and future leaders.",
-      image: "/professional-male-headshot.png",
-      email: "founder1@fes.com",
-      linkedin: "#",
+      image: "/thanen.jpg",
+      email: "thanenpeou@fes.com",
+      linkedin: "https://www.linkedin.com/in/thanen-p-9a907227a/",
       github: "#",
     },
     {
-      name: "Co-Founder Name",
-      role: "Co-Founder & Vice President",
+      name: "Kokchhe Ou",
+      role: "Co-Founder",
       bio: "Enthusiastic about economic policy and financial markets, committed to creating impactful learning experiences.",
       image: "/professional-headshot-female.png",
-      email: "founder2@fes.com",
+      email: "kokchheou@fes.com",
       linkedin: "#",
       github: "#",
     },
